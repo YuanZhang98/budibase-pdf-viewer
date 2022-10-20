@@ -14,6 +14,9 @@ This is a readme for your new Budibase plugin.
 # Step 2: Add a row to the table
 <img width="1418" alt="Screenshot 2022-10-20 at 18 22 07" src="https://user-images.githubusercontent.com/57537261/197016591-e8c81a23-c209-4ad8-bdda-e44ff41108eb.png">
 
+# Use filtering and FileName to choose which pdf file from your data source you want to display 
+<img width="1778" alt="Screenshot 2022-10-20 at 18 33 44" src="https://user-images.githubusercontent.com/57537261/197018772-edd9a237-70a0-4635-aba1-06af04c1d9c9.png">
+
 # Description
 An amazing Budibase component!
 
